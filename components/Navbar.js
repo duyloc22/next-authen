@@ -19,7 +19,7 @@ function Navbar() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="#">
+                        <Link href="/blog">
                             <a>Blog</a>
                         </Link>
                     </li>
